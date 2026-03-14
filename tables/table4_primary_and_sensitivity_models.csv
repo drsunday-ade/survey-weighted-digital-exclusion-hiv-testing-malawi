@@ -1,0 +1,8 @@
+Model specification,Effect scale,Estimate (95% CI),P value
+Crude survey-weighted logistic,OR,"1.94 (1.66, 2.27)",2.50e-16
+Adjusted survey-weighted logistic,OR,"1.84 (1.50, 2.26)",5.88e-09
+Adjusted modified Poisson,PR,"1.06 (1.04, 1.07)",1.39e-14
+Adjusted logistic: married/living together subset,OR,"1.63 (1.36, 1.95)",1.78e-07
+Adjusted logistic: not currently in union subset,OR,"1.51 (0.65, 3.54)",0.337
+Adjusted logistic: urban subset,OR,"1.42 (1.05, 1.92)",0.024
+Adjusted logistic: rural subset,OR,"2.23 (1.69, 2.93)",2.14e-08

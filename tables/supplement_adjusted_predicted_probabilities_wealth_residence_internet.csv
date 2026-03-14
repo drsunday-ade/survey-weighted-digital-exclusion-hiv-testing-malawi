@@ -1,0 +1,21 @@
+wealth_quintile,residence,internet_label,predicted_probability,ci_low,ci_high
+poorest,urban,No internet use,98.2%,97.5%,98.7%
+poorer,urban,No internet use,98.4%,97.8%,98.8%
+middle,urban,No internet use,98.6%,98.1%,99.0%
+richer,urban,No internet use,98.5%,98.0%,98.9%
+richest,urban,No internet use,97.9%,97.3%,98.4%
+poorest,rural,No internet use,98.2%,97.6%,98.6%
+poorer,rural,No internet use,98.4%,97.9%,98.7%
+middle,rural,No internet use,98.6%,98.3%,98.9%
+richer,rural,No internet use,98.5%,98.1%,98.8%
+richest,rural,No internet use,97.9%,97.2%,98.4%
+poorest,urban,Any internet use,99.0%,98.5%,99.3%
+poorer,urban,Any internet use,99.1%,98.7%,99.4%
+middle,urban,Any internet use,99.3%,98.9%,99.5%
+richer,urban,Any internet use,99.2%,98.9%,99.4%
+richest,urban,Any internet use,98.9%,98.5%,99.1%
+poorest,rural,Any internet use,99.0%,98.6%,99.3%
+poorer,rural,Any internet use,99.1%,98.8%,99.4%
+middle,rural,Any internet use,99.2%,99.0%,99.4%
+richer,rural,Any internet use,99.2%,98.9%,99.4%
+richest,rural,Any internet use,98.8%,98.4%,99.2%

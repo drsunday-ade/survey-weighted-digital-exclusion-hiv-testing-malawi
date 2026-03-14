@@ -1,0 +1,20 @@
+Term,Adjusted OR,95% CI low,95% CI high,P value
+Intercept,0.022,0.013,0.039,5.42e-36
+Any internet use vs none,1.841,1.503,2.257,5.88e-09
+Age (per 1-year increase),1.096,1.075,1.116,3.01e-20
+Educational attainment: primary,2.665,1.942,3.659,2.03e-09
+Educational attainment: secondary,5.915,4.207,8.316,5.03e-23
+Educational attainment: higher,12.211,6.567,22.705,9.38e-15
+Household wealth quintile: poorer,1.137,0.903,1.432,0.274
+Household wealth quintile: middle,1.345,1.070,1.690,0.011
+Household wealth quintile: richer,1.239,0.996,1.541,0.054
+Household wealth quintile: richest,0.871,0.669,1.133,0.303
+Residence: rural,0.990,0.800,1.225,0.926
+Marital status: married,23.715,19.405,28.983,4.90e-133
+Marital status: living with partner,14.826,9.751,22.542,4.42e-33
+Marital status: widowed,10.071,5.128,19.777,3.82e-11
+Marital status: divorced,21.903,13.846,34.650,1.02e-35
+Marital status: no longer living together/separated,17.504,12.025,25.478,4.07e-44
+Marital status: nullified,20.400,3.341,124.553,0.001
+Region: central,1.260,1.064,1.490,0.007
+Region: southern,2.769,2.335,3.284,4.39e-29

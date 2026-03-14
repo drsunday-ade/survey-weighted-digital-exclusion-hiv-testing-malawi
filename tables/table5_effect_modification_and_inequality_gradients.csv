@@ -1,0 +1,15 @@
+Domain,Stratum,Adjusted OR (95% CI),Stratum-specific P value,Interaction P value,BH q value
+Age group,15–19,"1.33 (0.99, 1.79)",0.059,0.057,0.057
+Age group,20–24,"1.47 (0.97, 2.23)",0.070,0.057,0.057
+Age group,25–29,"1.56 (0.71, 3.45)",0.270,0.057,0.057
+Age group,30–34,"6.13 (1.70, 22.17)",0.006,0.057,0.057
+Age group,35–39,"1.73 (0.56, 5.30)",0.339,0.057,0.057
+Age group,40–44,"11.81 (1.58, 88.29)",0.016,0.057,0.057
+Age group,45–49,"0.56 (0.20, 1.59)",0.278,0.057,0.057
+Household wealth quintile,poorest,"3.06 (1.11, 8.45)",0.030,0.054,0.057
+Household wealth quintile,poorer,"1.09 (0.54, 2.21)",0.812,0.054,0.057
+Household wealth quintile,middle,"3.89 (1.85, 8.22)",3.75e-04,0.054,0.057
+Household wealth quintile,richer,"1.61 (1.04, 2.49)",0.031,0.054,0.057
+Household wealth quintile,richest,"1.75 (1.34, 2.28)",4.31e-05,0.054,0.057
+Residence,urban,"1.42 (1.05, 1.92)",0.024,0.006,0.017
+Residence,rural,"2.23 (1.69, 2.93)",2.14e-08,0.006,0.017

@@ -1,0 +1,7 @@
+analytic_step,value
+Rows in raw IR file,21587
+Rows with non-missing HIV-testing outcome (V781),21587
+Rows with non-missing internet-use exposure (V171A),21587
+Rows with non-missing prespecified covariates,20849
+Rows in final complete-case analytic sample,20849
+Sum of normalized weights in analytic sample,20849
